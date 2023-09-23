@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,800;0,900;1,900&display=swap');
+/* Animação */
+
+[data-anime] {
+    opacity: 0;
+    transition: .3s;
+}
+
+[data-anime="left"] {
+    transform: translate3d(-75px, 0, 0);
+}
+
+[data-anime="right"] {
+    transform: translate3d(75px, 0, 0);
+}
+
+[data-anime="bottom"] {
+    transform: translate3d(0, 75px, 0);
+}
+
+[data-anime="top"] {
+    transform: translate3d(0, -75px, 0);
+}
+
+[data-anime].animate {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+
+#words::after {
+    content: '|';
+    opacity: 1;
+    margin-left: 5px;
+    display: inline-block;
+    animation: spin .7s infinite;
+}
+
+@keyframes spin {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+}
