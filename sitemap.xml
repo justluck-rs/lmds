@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Página Principal Português -->
+  <url>
+    <loc>https://lucasmateus.dev/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://lucasmateus.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucasmateus.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://lucasmateus.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lucasmateus.dev/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lucasmateus.dev/" />
+  </url>
+
+  <!-- Página Principal Inglês -->
+  <url>
+    <loc>https://lucasmateus.dev/en</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://lucasmateus.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucasmateus.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://lucasmateus.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lucasmateus.dev/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lucasmateus.dev/" />
+  </url>
+
+  <!-- Página Principal Japonês -->
+  <url>
+    <loc>https://lucasmateus.dev/ja</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://lucasmateus.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucasmateus.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://lucasmateus.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lucasmateus.dev/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lucasmateus.dev/" />
+  </url>
+
+  <!-- Página Principal Chinês -->
+  <url>
+    <loc>https://lucasmateus.dev/zh</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://lucasmateus.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://lucasmateus.dev/en" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://lucasmateus.dev/ja" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lucasmateus.dev/zh" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lucasmateus.dev/" />
+  </url>
+
+  <!-- Seção Sobre -->
+  <url>
+    <loc>https://lucasmateus.dev/#about</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Seção Projetos -->
+  <url>
+    <loc>https://lucasmateus.dev/#projects</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Seção Contato -->
+  <url>
+    <loc>https://lucasmateus.dev/#contact</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Projetos Individuais -->
+  <url>
+    <loc>https://lucasmateus.dev/projects/infrabets</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lucasmateus.dev/projects/skyfort</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://lucasmateus.dev/projects/interagil</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- CV PDF -->
+  <url>
+    <loc>https://lucasmateus.dev/cv-lucas-mateus.pdf</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset> 
